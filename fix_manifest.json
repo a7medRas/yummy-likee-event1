@@ -1,0 +1,9 @@
+{
+  "note": "All 'assets/' prefixes removed to make images load from repo root on GitHub.",
+  "changed_files": [
+    "chest.html",
+    "index.html",
+    "script.js",
+    "leaderboard.html"
+  ]
+}
